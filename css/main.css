@@ -1,0 +1,97 @@
+/* Inserta tu codigo aqui */
+li{
+	display: inline-block;
+	}
+a {
+	text-decoration: none; color:#9C9990
+	; margin-left:10px; padding: 5px; 
+	}
+ul {
+	margin-left: 150px;
+	 margin-top: 50px;
+	}
+.logo {
+	    width: 90px; height: 90px;
+	     margin-left: 100px;
+	 	}
+.fondo {
+		width: 1320px; 
+			height: 300px;
+	 	}
+.fondogris {
+			 width: 1160;
+			 height: 140px; margin-top: -4px;
+			 text-align: center; padding: 40px;
+			 margin-bottom: 60px;
+			}
+.mision {
+		margin-left:300px; margin-bottom: 15px; 
+		}
+.vision {
+		margin-left:290px; margin-bottom: 15px;
+		}
+.centrado {
+			text-align: center; margin-left: 100px;
+			}
+.abajo {
+		margin-bottom: 60px;
+		}
+.tamaño {
+		width: 700px; height: 400px;
+		}
+
+.imagenfondo {
+				background-image: url(../img/fondo.jpg);
+				height: 400px;
+			}
+.met {
+		margin: 80px 0px 40px 300px;
+	}
+
+.sin {
+	color:white; margin-bottom: 20px;
+	}
+.servicios {
+			margin:40px 0px 80px 0px;
+			}
+.a {
+	margin-bottom: 30px;
+}
+
+*{
+	font-family: 'Poiret One', cursive;
+	}
+.imageneser{
+			margin-left: 150px;
+			}
+.te {
+		width: 500px; height: 300px; margin-left: 70px; margin-right: 70px;
+	}
+.margen {
+		margin-top: 60px;
+		}
+
+.top {
+		margin-top: 170px;
+		}
+
+.left {
+		margin-left: 80px;
+		}
+
+.chicas {
+		border-radius: 50%; width: 170px; height: 170px; 
+		margin-left: 250px;
+		}
+.dos {
+		margin-top: 40px;
+	}
+.iz {
+	margin-left: 200px;
+}
+.iconos {
+	width: 30px; height: 30px;
+}
+.carrusel {width: 200px; height: 100px;}
+
+.fo {background-image: }
